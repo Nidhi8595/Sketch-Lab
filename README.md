@@ -1,4 +1,4 @@
-# SketchLab — Interactive Approximate Analytics with Databricks
+# SketchLab - Interactive Approximate Analytics with Databricks
 
 ## 1. Project Overview
 
